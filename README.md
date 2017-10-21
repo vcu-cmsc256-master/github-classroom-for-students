@@ -5,13 +5,13 @@ This is a guide for students to setup Git and GitHub for use with GitHub Classro
 ### Steps for getting setup with GitHub
 1. Register for account on GitHub (https://github.com/) using your vcu email address. We recommend using a username that incorporates your VCU eID. 
 
-2. Install Git. Directions for both Windows & Mac here: http://happygitwithr.com/install-git.html. Windows users should follow Option 1 in 7.2. Mac users can follow Option 1 in 7.3 if comfortable, otherwise follow Option 2
+2. Install Git. 
 
-3. Setup options in Git. If you are using a Mac, go to the terminal (Applications -> Utilities -> Terminal). If you are using Windows, open Git BASH, which you should have downloaded in step 3. Enter the three lines of code here: http://happygitwithr.com/hello-git.html, changing the first two lines to your own name and email (this should be the email associated with your GitHub account). Note that Windows users should read section 8.1 in the above link carefully
-
-4. Generate a SSH key so you don’t need to enter your password every time you interact with GitHub. First check to see if you have a SSH key. Go into the shell (again, either through Terminal for Mac, or Git Bash for Windows) and complete on this page http://happygitwithr.com/ssh-keys.html, which is Chapter 12 in Happy Git with R.
-
-5. Follow the instructions here (http://happygitwithr.com/push-pull-github.html) to ensure you can connect to GitHub from your computer.
+3. Setup options in Git. If you are using a Mac, go to the terminal (Applications -> Utilities -> Terminal). . Enter the three lines of code here: 
+git config --global user.name 'Rodney Ram'
+git config --global user.email 'rram@vcu.edu'
+git config --global --list
+changing the first two lines to your own name and email (this should be the email associated with your GitHub account). 
 
 ### Steps for downloading and editing assignments from GitHub Classroom
 
@@ -69,7 +69,6 @@ Your classroom may have a repository where everyone in the class has access to i
 2. To pull in changes, navigate inside of this shared directory. To get the most recent version of this directory, you simply have to type `git pull`. If you get an error about merge conflict, don't freak out! This can happen if you edit locations in files that are also changed by a someone else. 
 
 ### Resources
-* [Happy Git and GitHub for the useR](http://happygitwithr.com/)
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/)
 * [Interactive learning guide for Git](http://learngitbranching.js.org/)
 * [GitHub Guides](https://guides.github.com/)
