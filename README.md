@@ -72,5 +72,3 @@ Your classroom may have a repository where everyone in the class has access to i
 * [The Unix Workbench](http://seankross.com/the-unix-workbench/)
 * [Interactive learning guide for Git](http://learngitbranching.js.org/)
 * [GitHub Guides](https://guides.github.com/)
-* [Git setup for Windows (video)](https://youtu.be/F_fPEMnr1OQ)
-* [Git setup for Mac (video)](https://www.youtube.com/watch?v=kbmSZwK0k-A&t)
