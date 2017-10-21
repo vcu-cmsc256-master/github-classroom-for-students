@@ -3,7 +3,7 @@
 This is a guide for students to setup Git and GitHub for use with GitHub Classroom. 
 
 ### Steps for getting setup with GitHub
-1. Register for account on GitHub (https://github.com/) using your vcu email address. We recommend using a username that incorporates your VCU eID. 
+1. Register for account on GitHub (https://github.com/) using your VCU email address. We recommend using a username that incorporates your VCU eID. 
 
 2. Install Git. 
 
