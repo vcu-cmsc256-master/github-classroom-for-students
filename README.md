@@ -22,10 +22,11 @@ changing the first two lines to your own name and email (this should be the emai
     Note you can do this as you normally would with pointing and clicking, but you can also use the shell! This is good practice if you want to use Git outside of the class, as you normally have to use the Shell to interact with Git. Sean Kross has a great guide for using the shell here--http://seankross.com/the-unix-workbench/. However, I'll show you the basic steps you need.
 
  One thing that the shell does is allow you to navigate through all of your files by typing commands, rather than using your mouse. When you open up the shell, you can type `PWD`. This tells you the directory (folder) that you are in. You can also type `ls`. This lists the directories available to you. For example when I type `PWD`, the result is `/Users/debmduke/`. This tells me that I am in my own directory inside of my computer. When I type `ls`, I see directories such as Desktop, Documents, etc... I can also enter into a directory using the `cd` command. If I type `cd Desktop`, then I am now inside of the Documents directory. When I type `PWD`, the result is now `/Users/debmduke/Desktop`. I can go back to `/Users/debmduke/` by typing `cd ..`.
+
 To make a directory (note I'm using directory and folder interchangeably here). Use the `mkdir` command. For example, to make a directory called 256-fall-2019, type `mkdir 256-fall-2019`. 
 If you type `ls`, you'll now see `256-fall-2019` appear. 
 You can then enter `cd 256-fall-2019` to go into the class-directory. 
-Finally, to make a lab directory,  type `mkdir lab` and `mkdir lab`. 
+Finally, to make a lab directory,  type `mkdir lab`. 
 
 Here is a basic illustration of how my directory structure looks.
 
