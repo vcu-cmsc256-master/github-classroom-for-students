@@ -1,21 +1,23 @@
 # GitHub Classroom Guide for Students
 
-This is a guide for students to setup Git and GitHub for use with GitHub Classroom. 
+This is a guide for you to setup Git and GitHub for use with GitHub Classroom for this semester. 
 
 ### Steps for getting setup with GitHub
-1. Register for account on GitHub (https://github.com/) using your VCU email address. We recommend using a username that incorporates your VCU eID. 
+1. Register for account on GitHub (https://github.com/) using your VCU email address. I recommend using a username that incorporates your VCU eID. If you already have a GitHub account, skip this step.
 
-2. Install Git. 
+2. Complete this Google Form to record your GitHub username: https://forms.gle/GJSFoZW8EeYR7buh9
 
-3. Setup options in Git. If you are using a Mac, go to the terminal (Applications -> Utilities -> Terminal). . Enter the three lines of code here: 
-git config --global user.name 'Rodney Ram'
-git config --global user.email 'rram@vcu.edu'
-git config --global --list
+3. Install Git. 
+
+4. Setup options in Git. If you are using a Mac, go to the terminal (Applications -> Utilities -> Terminal). . Enter the three lines of code here: 
+   git config --global user.name 'Rodney Ram'
+   git config --global user.email 'rram@vcu.edu'
+   git config --global --list
 changing the first two lines to your own name and email (this should be the email associated with your GitHub account). 
 
 ### Steps for downloading and editing assignments from GitHub Classroom
 
-1.  Have a folder specifically for your class (call it something like 256-fall-2017). 
+1.  Have a folder specifically for your class (call it something like 256-fall-2019). 
 
     Note you can do this as you normally would with pointing and clicking, but you can also use the shell! This is good practice if you want to use Git outside of the class, as you normally have to use the Shell to interact with Git. Sean Kross has a great guide for using the shell here--http://seankross.com/the-unix-workbench/. However, I'll show you the basic steps you need.
 
