@@ -1,6 +1,6 @@
 # GitHub Classroom Guide for Students
 
-This is a guide for you to setup Git and GitHub for use with GitHub Classroom for this semester. 
+This is a guide for you to setup Git and GitHub for use with GitHub Classroom. 
 
 ### Steps for getting setup with GitHub
 1. Register for account on GitHub (https://github.com/) using your VCU email address. I recommend using a username that incorporates your VCU eID. If you already have a GitHub account, skip this step.
@@ -9,11 +9,11 @@ This is a guide for you to setup Git and GitHub for use with GitHub Classroom fo
 
 3. Install Git. 
 
-4. Setup options in Git. If you are using a Mac, go to the terminal (Applications -> Utilities -> Terminal). . Enter the three lines of code here: 
+4. Setup options in Git. If you are using a Mac, go to the terminal (Applications -> Utilities -> Terminal). Enter the three lines of code here, **changing the first two lines to your own name and email** (this should be the email associated with your GitHub account): 
    git config --global user.name 'Rodney Ram'
    git config --global user.email 'rram@vcu.edu'
    git config --global --list
-changing the first two lines to your own name and email (this should be the email associated with your GitHub account). 
+ 
 
 ### Steps for downloading and editing assignments from GitHub Classroom
 
